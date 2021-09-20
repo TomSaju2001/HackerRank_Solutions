@@ -34,3 +34,5 @@
 |     Aggregation      | [The Blunder](https://www.hackerrank.com/challenges/the-blunder/problem)                                                    |   15   | [MySQL Solution]()                    |
 |     Aggregation      | [Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem)                                                    |   20   | [MySQL Solution]()                    |
 |     Aggregation      | [Weather Observation Station 2](https://www.hackerrank.com/challenges/weather-observation-station-2/problem)                                                    |   15   | [MySQL Solution]()                    |
+|     Aggregation      | [Weather Observation Station 13](https://www.hackerrank.com/challenges/weather-observation-station-13/problem)                                                    |   10   | [MySQL Solution]()                    |
+|     Aggregation      | [Weather Observation Station 14](https://www.hackerrank.com/challenges/weather-observation-station-14/problem)                                                    |   10   | [MySQL Solution]()                    |

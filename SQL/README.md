@@ -39,6 +39,6 @@
 |     Aggregation      | [Weather Observation Station 15](https://www.hackerrank.com/challenges/weather-observation-station-15/problem)                                                    |   15   | [MySQL Solution]()                    |
 |     Aggregation      | [Weather Observation Station 16](https://www.hackerrank.com/challenges/weather-observation-station-16/problem)                                                    |   10   | [MySQL Solution]()                    |
 |     Aggregation      | [Weather Observation Station 17](https://www.hackerrank.com/challenges/weather-observation-station-17/problem)                                                    |   15   | [MySQL Solution]()                    |
-
+|     Aggregation      | [Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18/problem)                                                    |   25   | [MySQL Solution]()                    |
 
 

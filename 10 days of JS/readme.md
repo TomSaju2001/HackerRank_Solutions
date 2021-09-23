@@ -11,5 +11,5 @@
 |  2  | [Conditional Statements: Switch](https://www.hackerrank.com/challenges/js10-switch/problem)                                                               |   10   | [Click Here]()                     |
 |  2  | [Loops](https://www.hackerrank.com/challenges/js10-loops/problem)                                              |   10   | [Click Here]()                        |
 |  3  | [Arrays](https://www.hackerrank.com/challenges/js10-arrays/problem)                                                 |   15   | [Click Here]()                             |
-|  3  | [Try, Catch, and Finally](https://www.hackerrank.com/challenges/js10-try-catch-and-finally/problem)                                                  |   10   | [Click Here]()                        |
-|  3  | [Throw](https://www.hackerrank.com/challenges/js10-throw/problem)                                                         |   10   | [Click Here]()                                     |
+|  3  | [Try, Catch, and Finally](https://www.hackerrank.com/challenges/js10-try-catch-and-finally/problem)                                                  |   15   | [Click Here]()                        |
+|  3  | [Throw](https://www.hackerrank.com/challenges/js10-throw/problem)                                                         |   15   | [Click Here]()                                     |

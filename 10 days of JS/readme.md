@@ -8,8 +8,8 @@
 |  1  | [Functions](https://www.hackerrank.com/challenges/js10-function/problem)                                       |   10   | [Click Here]()                           |
 |  1  | [Let and Const](https://www.hackerrank.com/challenges/js10-let-and-const/problem)                                         |   10   | [Click Here]()                            |
 |  2  | [Conditional Statements: If-Else](https://www.hackerrank.com/challenges/js10-if-else/problem)                                                       |   10   | [Click Here]()                                   |
-|  2  | [Conditional Statements: Switch]()                                                               |   10   | [Click Here]()                     |
-|  2  | [Loops]()                                              |   10   | [Click Here]()                        |
+|  2  | [Conditional Statements: Switch](https://www.hackerrank.com/challenges/js10-switch/problem)                                                               |   10   | [Click Here]()                     |
+|  2  | [Loops](https://www.hackerrank.com/challenges/js10-loops/problem)                                              |   10   | [Click Here]()                        |
 |  3  | [Arrays]()                                                 |   15   | [Click Here]()                             |
 |  3  | [Try, Catch, and Finally]()                                                  |   10   | [Click Here]()                        |
 |  3  | [Throw]()                                                         |   10   | [Click Here]()                                     |

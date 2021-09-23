@@ -4,8 +4,8 @@
 |:---:|:--------------------------------------------------------------------------------------------------------------------------:|:------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 |  0  | [Hello, World!](https://www.hackerrank.com/challenges/js10-hello-world/problem)                                                |   10   | [Click Here]()                |
 |  0  | [Data Types](https://www.hackerrank.com/challenges/js10-data-types/problem)                                                   |   10   | [Click Here]()                                 |
-|  1  | [Arithmetic operators]()                                                           |   10   | [Click Here]()                                       |
-|  1  | [Functions]()                                       |   10   | [Click Here]()                           |
+|  1  | [Arithmetic operators](https://www.hackerrank.com/challenges/js10-arithmetic-operators/problem)                                                           |   10   | [Click Here]()                                       |
+|  1  | [Functions](https://www.hackerrank.com/challenges/js10-function/problem)                                       |   10   | [Click Here]()                           |
 |  1  | [Let and Const]()                                         |   10   | [Click Here]()                            |
 |  2  | [Conditional Statements: If-Else]()                                                       |   10   | [Click Here]()                                   |
 |  2  | [Conditional Statements: Switch]()                                                               |   10   | [Click Here]()                     |

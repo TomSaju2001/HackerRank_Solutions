@@ -2,8 +2,8 @@
 
 | Day |                                                          Challenge                                                         | Points |                                                                                          Solution                                                                                         |
 |:---:|:--------------------------------------------------------------------------------------------------------------------------:|:------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|  0  | [Hello, World!]()                                                |   10   | [Click Here]()                |
-|  0  | [Data Types]()                                                   |   10   | [Click Here]()                                 |
+|  0  | [Hello, World!](https://www.hackerrank.com/challenges/js10-hello-world/problem)                                                |   10   | [Click Here]()                |
+|  0  | [Data Types](https://www.hackerrank.com/challenges/js10-data-types/problem)                                                   |   10   | [Click Here]()                                 |
 |  1  | [Arithmetic operators]()                                                           |   10   | [Click Here]()                                       |
 |  1  | [Functions]()                                       |   10   | [Click Here]()                           |
 |  1  | [Let and Const]()                                         |   10   | [Click Here]()                            |
